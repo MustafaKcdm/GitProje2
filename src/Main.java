@@ -5,5 +5,9 @@ public class Main {
             System.out.println("ikinci aşamaya yükseltildi");
 
         }
+        for (int i = 0; i < 2; i++) {
+            System.out.println("üçüncü seviye tamamlandı");
+
+        }
     }
 }
